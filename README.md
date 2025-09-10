@@ -4,6 +4,9 @@
 
 The application is built on a robust client-server architecture, featuring a stateless **Spring Boot** backend with **JWT-based security** and a dynamic **React.js** frontend. This project showcases the integration of modern backend security practices with a responsive user interface to deliver a powerful and user-friendly learning tool.
 
+> **Note:** This project is my Bachelor's thesis.  
+> To comply with academic requirements, the source code is currently private and will be published on GitHub after the official defense.
+
 ---
 
 ### ⛓️ Table of Contents
