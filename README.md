@@ -1,6 +1,6 @@
-# EduFlex: Interactive Learning Platform
+# Educational Platform for University
 
-**EduFlex** is a modern, full-stack web application designed to create a seamless and secure educational environment for students and instructors. It provides a comprehensive suite of tools for course management, interactive testing, progress tracking, and secure material sharing.
+**Educational Platform for University** is a modern, full-stack web application designed to create a seamless and secure educational environment for students and instructors. It provides a comprehensive suite of tools for course management, interactive testing, progress tracking, and secure material sharing.
 
 The application is built on a robust client-server architecture, featuring a stateless **Spring Boot** backend with **JWT-based security** and a dynamic **React.js** frontend. This project showcases the integration of modern backend security practices with a responsive user interface to deliver a powerful and user-friendly learning tool.
 
@@ -59,7 +59,7 @@ The application is built on a robust client-server architecture, featuring a sta
 
 #### Architecture Overview
 
-EduFlex uses a decoupled architecture where the **React Single-Page Application (SPA)** acts as the client, communicating with the **Spring Boot RESTful API** backend. All communication is stateless, relying on JSON Web Tokens (JWT) for authentication.
+Educational Platform for University uses a decoupled architecture where the **React Single-Page Application (SPA)** acts as the client, communicating with the **Spring Boot RESTful API** backend. All communication is stateless, relying on JSON Web Tokens (JWT) for authentication.
 
 #### JWT Authentication Flow
 
